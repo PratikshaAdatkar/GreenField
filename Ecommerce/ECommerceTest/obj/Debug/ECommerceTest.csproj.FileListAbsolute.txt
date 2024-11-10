@@ -1,0 +1,14 @@
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\ECommerceTest.exe.config
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\ECommerceTest.exe
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\ECommerceTest.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\CRM.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\CRM.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\obj\Debug\ECommerceTest.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\obj\Debug\ECommerceTest.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\obj\Debug\ECommerc.84355B85.Up2Date
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\obj\Debug\ECommerceTest.exe
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\obj\Debug\ECommerceTest.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\OrderProcessing.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\OrderProcessing.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\Catalog.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\ECommerceTest\bin\Debug\Catalog.pdb

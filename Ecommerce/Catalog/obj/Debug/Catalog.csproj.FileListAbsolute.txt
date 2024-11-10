@@ -1,0 +1,6 @@
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Catalog\bin\Debug\Catalog.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Catalog\bin\Debug\Catalog.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.pdb

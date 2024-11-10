@@ -1,0 +1,13 @@
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\Services.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\Services.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\BinaryDataRepositoryLib.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\Specification.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\BinaryDataRepositoryLib.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\POCOLib.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\bin\Debug\Specification.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\obj\Debug\Services.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Services\obj\Debug\Services.pdb

@@ -1,0 +1,22 @@
+﻿
+@using Catalog
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="row">
+    <ol>
+        @{
+            foreach (Product p in @Model)
+            {
+                <p>@p.Name    @p.Description   @p.UnitPrice</p>
+                <li>
+                    <img src="@p.image" width="50" height="50" />
+                </li>
+            }
+        }
+    </ol>
+</div>
+

@@ -1,0 +1,6 @@
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\bin\Debug\Taxation.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\bin\Debug\Taxation.pdb
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.dll
+C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.pdb
