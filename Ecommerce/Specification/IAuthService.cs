@@ -11,7 +11,7 @@ namespace Specification
     {
         bool Login(string username, string password);
         bool Register(User u, string pass);
-        bool ForgotPassword(string username);
+        string ForgotPassword(string username);
         bool ResetPassword(string username, string oldpassword, string newpassword);
     }
 }

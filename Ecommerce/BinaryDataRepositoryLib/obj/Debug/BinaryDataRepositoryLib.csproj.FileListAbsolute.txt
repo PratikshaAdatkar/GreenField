@@ -9,3 +9,14 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\BinaryDataRepositoryLib\obj\De
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDa.66CF657C.Up2Date
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\bin\Debug\BinaryDataRepositoryLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\bin\Debug\BinaryDataRepositoryLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\bin\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\bin\Debug\Specification.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\bin\Debug\POCOLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\bin\Debug\Specification.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDa.66CF657C.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.pdb

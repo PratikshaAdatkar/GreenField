@@ -7,12 +7,15 @@ using POCO;
 
 namespace Specification
 {
+    /// <summary>
+    /// Every interface defined in program is called Propotype, contract, specification, etc
+    /// </summary>
     public interface IProductService
     {
-        List<Product> GetAll();//generic class symbol<> //abstract method
-        Product GetById(int id);
+        List<Product> GetAll(string s);               //abstract method
+        Product Get(int id);
         bool Insert(Product product);
         bool Update(Product product);
-        bool Delete(int productid);
+        bool Delete(int id);
     }
 }

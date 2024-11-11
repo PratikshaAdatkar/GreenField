@@ -1,0 +1,16 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\MembershipTestApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\MembershipTestApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\MembershipTestApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\Services.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\Specification.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\BinaryDataRepositoryLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\POCOLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\Services.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\Specification.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\bin\Debug\BinaryDataRepositoryLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\obj\Debug\Membersh.B1365ED7.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MembershipTestApp\obj\Debug\MembershipTestApp.pdb

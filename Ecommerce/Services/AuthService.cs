@@ -29,11 +29,12 @@ namespace Services
    
             credentials.Add(new Credential { Email = "adatakarpratiksha14@gmail.com", Password = "abc" });
             credentials.Add(new Credential { Email = "shrutikadam132@gmail.com", Password = "xyz" });
-           
+
 
             IDataRepository<User> repository = new BinaryRepository<User>();
             IDataRepository<Credential> dataRepository = new BinaryRepository<Credential>();
             status = repository.Serialize(logfile, Users);
+            status = false;
             status = dataRepository.Serialize(credfile, credentials);
             return status;
         }
@@ -46,6 +47,7 @@ namespace Services
             List<Credential> credentials = new List<Credential>();
             credentials = GetAllCredentials();
             Credential credential = new Credential { Email = u.Email, Password = pass };
+
             credentials.Add(credential);
 
             IDataRepository<User> repository = new BinaryRepository<User>();
@@ -56,9 +58,19 @@ namespace Services
             return status;
         }
 
-        public bool ForgotPassword(string username)
+        public string ForgotPassword(string username)
         {
-            throw new NotImplementedException();
+            List<Credential> credentials = new List<Credential>();
+            credentials = GetAllCredentials();
+            foreach (Credential cred in credentials)
+            {
+                if (cred.Email == username)
+                {
+                    return cred.Password;
+                }
+            }
+            return null;
+
         }
         public List<User> GetAllUsers()
         {
@@ -74,15 +86,6 @@ namespace Services
             credentials = repository.Deserialize(credfile);
             return credentials;
         }
-        /*
-        public List<User> GetAllCredentials()
-        {
-            List<Credential> credentials = new List<Credential>();
-            IDataRepository<User> repository = new MemberRepository();
-            credentials = repository.Deserialize<Credential>(logfile);
-            return credentials;
-        }
-        */
 
 
         public bool Login(string username, string password)
@@ -101,7 +104,19 @@ namespace Services
 
         public bool ResetPassword(string username, string oldpassword, string newpassword)
         {
-            throw new NotImplementedException();
+            List<Credential> credentials = new List<Credential>();
+            credentials = GetAllCredentials();
+            foreach (Credential cred in credentials)
+            {
+                if (cred.Email == username & cred.Password == oldpassword)
+                {
+                    cred.Password = newpassword;
+                    IDataRepository<Credential> dataRepository = new BinaryRepository<Credential>();
+                    return dataRepository.Serialize(credfile, credentials);
+                }
+            }
+
+            return false;
         }
     }
 }

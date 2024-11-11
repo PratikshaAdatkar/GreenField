@@ -3,68 +3,50 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BinaryDataRepositoryLib;
 using POCO;
 using Specification;
-namespace Service
+using BinaryDataRepositoryLib;
+
+namespace Services
 {
     public class ProductService : IProductService
     {
-        //private List<Product> products;
-
-
-        public bool Seeding()
+        public bool Seeding(string filename)
         {
+
             bool status = false;
             List<Product> products = new List<Product>();
-            products.Add(new Product { Id = 1, Name = "Gerbera", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, image = "" });
-            products.Add(new Product { Id = 2, Name = "Rose", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, image = "" });
-            products.Add(new Product { Id = 3, Name = "Lily", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, image = "" });
-            products.Add(new Product { Id = 4, Name = "Jasmin", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, image = "" });
-            products.Add(new Product { Id = 5, Name = "Lotus", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, image = "" });
-            IDataRepository repository = new BinaryRepository();
-            status = repository.Serialize("products.dat", products);
+            products.Add(new Product { Id = 1, Name = "gerbera", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, image = "/Images/gerbera.jpg" });
+            products.Add(new Product { Id = 2, Name = "rose", Description = "Wedding Flower", UnitPrice = 11, Quantity = 4000, image = "/Images/rose.jfif" });
+            products.Add(new Product { Id = 3, Name = "lily", Description = "Wedding Flower", UnitPrice = 2, Quantity = 5000, image = "" });
+            products.Add(new Product { Id = 4, Name = "jasmine", Description = "Wedding Flower", UnitPrice = 22, Quantity = 5000, image = "" });
+            products.Add(new Product { Id = 5, Name = "lotus", Description = "Wedding Flower", UnitPrice = 19, Quantity = 3000, image = "" });
+            IDataRepository<Product> repository = new BinaryRepository<Product>();
+            status = repository.Serialize(filename, products);
             return status;
+        }
+
+        private List<Product> products;
+        public ProductService()
+        {
+            this.products = new List<Product>();
         }
         public bool Delete(int id)
         {
-            Product theproduct = GetById(id);
-            if (theproduct != null)
+            Product theProduct = this.Get(id);
+            if (theProduct != null)
             {
                 List<Product> allProducts = GetAll();
-                allProducts.Remove(theproduct);
-                IDataRepository repo = new BinaryRepository();
+                allProducts.Remove(theProduct);
+                IDataRepository<Product> repo = new BinaryRepository<Product>();
                 repo.Serialize("products.dat", allProducts);
                 return true;
             }
             return false;
         }
 
-        public List<Product> GetAll()
+        public Product Get(int id)
         {
-            /*products.Add(new Product { Id = 1, Name = "Gerbera", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, Img = "/Images/Gerbera.jfif" });
-            products.Add(new Product { Id = 2, Name = "Rose", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, Img = "/Images/Rose.jfif" });
-            products.Add(new Product { Id = 3, Name = "Lily", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, Img = "/Images/Lily.jfif" });
-            products.Add(new Product { Id = 4, Name = "Jasmin", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, Img = "/Images/Jasmine.jfif" });
-            products.Add(new Product { Id = 5, Name = "Lotus", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, Img = "/Images/Lotus.jfif" });*/
-            List<Product> products = new List<Product>();
-            IDataRepository repository = new BinaryRepository();
-            products = repository.Deserialize("products.dat");
-            return products;
-        }
-
-        public Product GetById(int id)
-        {
-            //foreach (Product product in products)
-            //{
-            // if (product.Id == id)
-            // {
-            // return product;
-            // }
-
-            //}
-            //return null;
-            //return new Product { Id = 1, Name = "Gerbera", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, Img = "/Images/Gerbera.jfif" };
             Product foundProduct = null;
             List<Product> products = GetAll();
             foreach (Product p in products)
@@ -77,28 +59,36 @@ namespace Service
             return foundProduct;
         }
 
+        public List<Product> GetAll(string filename = "products.dat")
+        {
+            string FileName = filename;
+            List<Product> products = new List<Product>();
+            IDataRepository<Product> repository = new BinaryRepository<Product>();
+            products = repository.Deserialize(filename);
+            return products;
+        }
+
         public bool Insert(Product Product)
         {
-            //products.Add(product);
             List<Product> allProducts = GetAll();
             allProducts.Add(Product);
-            IDataRepository repository = new BinaryRepository();
+            IDataRepository<Product> repository = new BinaryRepository<Product>();
             repository.Serialize("products.dat", allProducts);
             return true;
         }
 
         public bool Update(Product productToBeUpdated)
         {
-            Product theProduct = this.GetById(productToBeUpdated.Id);
+            Product theProduct = this.Get(productToBeUpdated.Id);
             if (theProduct != null)
             {
                 List<Product> allProducts = GetAll();
                 allProducts.Remove(theProduct);
-                IDataRepository repository = new BinaryRepository();
+                IDataRepository<Product> repository = new BinaryRepository<Product>();
                 repository.Serialize("products.dat", allProducts);
             }
             return true;
+
         }
     }
 }
-

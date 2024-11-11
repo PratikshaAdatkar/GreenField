@@ -7,3 +7,12 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Specification\obj\Debug\Specif
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Specification\obj\Debug\Specification.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Specification\obj\Debug\Specification.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\bin\Debug\Specification.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\bin\Debug\Specification.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\bin\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\bin\Debug\POCOLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\obj\Debug\Specification.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\obj\Debug\Specification.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\obj\Debug\Specification.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Specification\obj\Debug\Specification.pdb

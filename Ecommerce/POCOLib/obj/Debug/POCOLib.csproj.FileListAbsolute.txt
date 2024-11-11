@@ -4,3 +4,9 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\POCOLib\obj\Debug\POCOLib.cspr
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\POCOLib\obj\Debug\POCOLib.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\POCOLib\obj\Debug\POCOLib.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\POCOLib\obj\Debug\POCOLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\bin\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\bin\Debug\POCOLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\POCOLib.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\POCOLib.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\POCOLib.pdb
