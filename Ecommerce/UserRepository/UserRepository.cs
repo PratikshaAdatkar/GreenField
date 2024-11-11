@@ -1,39 +1,59 @@
 ﻿using System;
+
 using System.Collections.Generic;
+
 using System.Linq;
+
 using System.Text;
+
 using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+
 using Specification;
+
 using POCO;
 using System.Runtime.Serialization;
 
 namespace BinaryDataRepositoryLib
+
 {
-    public class BinaryRepository<T> : IDataRepository<T>
+
+    public class DataRepository : IDataRepository
+
     {
-        public bool Serialize(string filename, List<T> items)
+
+        public bool Serialize(string filename, List<User> users)
+
         {
+
             bool status = false;
             BinaryFormatter formatter = new BinaryFormatter();
             FileStream stream = new FileStream(filename, FileMode.OpenOrCreate);
-            formatter.Serialize(stream, items);
+            formatter.Serialize(stream, users);
             stream.Close();
-            status = true;
+
             return status;
+
         }
-        public List<T> Deserialize(string filename)
+
+        public List<User> Deserialize(string filename)
+
         {
-            List<T> products = new List<T>();
+
+            List<User> users = new List<User>();
             BinaryFormatter formatter = new BinaryFormatter();
             FileStream stream = new FileStream(filename, FileMode.Open);
             if (stream != null)
             {
-                products = (List<T>)formatter.Deserialize(stream);
+                users = (List<User>)formatter.Deserialize(stream);
             }
             stream.Close();
-            return products;
+            return users;
+
         }
+
     }
+
 }
+
