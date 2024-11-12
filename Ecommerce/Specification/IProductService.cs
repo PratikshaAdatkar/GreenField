@@ -12,7 +12,7 @@ namespace Specification
     /// </summary>
     public interface IProductService
     {
-        List<Product> GetAll(string s);               //abstract method
+        List<Product> GetAll();               //abstract method
         Product Get(int id);
         bool Insert(Product product);
         bool Update(Product product);

@@ -11,6 +11,7 @@ namespace Services
 {
     public class ProductService : IProductService
     {
+        public string filename = "C:/Users/pratiksha.adatkar/Desktop/C#/GreenField/Ecommerce/SerializationTestApp/bin/Debug/products.dat";
         public bool Seeding(string filename)
         {
 
@@ -59,9 +60,9 @@ namespace Services
             return foundProduct;
         }
 
-        public List<Product> GetAll(string filename = "products.dat")
+        public List<Product> GetAll()
         {
-            string FileName = filename;
+            
             List<Product> products = new List<Product>();
             IDataRepository<Product> repository = new BinaryRepository<Product>();
             products = repository.Deserialize(filename);
