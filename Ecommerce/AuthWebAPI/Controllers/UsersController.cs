@@ -1,57 +1,53 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using POCO;
-using Specification;
 using Services;
+using Specification;
+using POCO;
+
 namespace AuthWebAPI.Controllers
 {
-    public class UsersController : ApiController
+    public class UserController : ApiController
     {
-
-        //CRUD Operation: 
-        //C:CREATE, R:Read, U:update, D:delete
-
-        // GET api/products
-        public IEnumerable<Product> Get()
+        public IEnumerable<User> Get()
         {
-            IProductService svc = new ProductService();
-            List<Product> products = svc.GetAll();
-            return products;
+            AuthService svc = new AuthService();
+            List<User> users = svc.GetAllUsers();
+            return users;
         }
 
-        // GET api/products/5
-        public Product Get(int id)
+        // GET api/values/5
+        public User Get(int id)
         {
-            IProductService svc = new ProductService();
-            Product product = svc.Get(id);
-            return product;
-
+            AuthService svc = new AuthService();
+            User user = svc.GetUser(id);
+            return user;
         }
 
-        // POST api/products
-        public void Post([FromBody] Product product)
+        // POST api/values
+        public void Post([FromBody] User user, string pass)
         {
-            IProductService svc = new ProductService();
-            svc.Insert(product);
+            IAuthService svc = new AuthService();
+            svc.Register(user, pass);
         }
 
-        // PUT api/products/5
-        public void Put(int id, [FromBody] Product product)
+        // PUT api/values/5
+        /*
+        public void Put(int id, [FromBody] User user)
         {
-            IProductService svc = new ProductService();
-            svc.Update(product);
+            IAuthService svc = new AuthService();
+            svc.Update(user);
         }
-
-        // DELETE api/products/5
+        */
+        // DELETE api/values/5
         public void Delete(int id)
         {
-            IProductService svc = new ProductService();
+            IAuthService svc = new AuthService();
             svc.Delete(id);
         }
-
     }
 }

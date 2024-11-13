@@ -7,27 +7,24 @@ using System.Web.Http;
 using POCO;
 using Specification;
 using Services;
-using System.Web;
+
 namespace AuthWebAPI.Controllers
 {
     public class AuthController : ApiController
     {
-
-        // POST api/auth
-        public void Post([FromBody] Credential credential)
+        public IHttpActionResult Post([FromBody] Credential crednetial)
         {
             IAuthService svc = new AuthService();
-            if (svc.Login(credential.Email, credential.Password))
+            if (svc.Login(crednetial.Email, crednetial.Password))
             {
-
+                return Ok("login successful");
             }
             else
             {
+                return Unauthorized();
 
             }
 
         }
-
-
     }
 }

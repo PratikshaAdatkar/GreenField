@@ -13,5 +13,9 @@ namespace Specification
         bool Register(User u, string pass);
         string ForgotPassword(string username);
         bool ResetPassword(string username, string oldpassword, string newpassword);
+        User GetUser(int id);
+        List<User> GetAllUsers();
+        List<Credential> GetAllCredentials();
+        bool Delete(int id);
     }
 }

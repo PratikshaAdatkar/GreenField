@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POCO
 {
-    [Serializable]
+    //[Serializable]
     public class User
     {
         public static int i = 0;
