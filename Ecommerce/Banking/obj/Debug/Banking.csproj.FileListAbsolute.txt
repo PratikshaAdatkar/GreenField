@@ -7,3 +7,12 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Banking\obj\Debug\Banking.cspr
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Banking\obj\Debug\Banking.csproj.Up2Date
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Banking\obj\Debug\Banking.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Banking\obj\Debug\Banking.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\bin\Debug\Banking.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\bin\Debug\Banking.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\bin\Debug\Delegation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\bin\Debug\Delegation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\obj\Debug\Banking.csproj.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\obj\Debug\Banking.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Banking\obj\Debug\Banking.pdb

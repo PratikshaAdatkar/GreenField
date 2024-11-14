@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using Specification;
-using POCO;
+using ECommerceEntities;
 using System.Runtime.Serialization;
 
 namespace BinaryDataRepositoryLib

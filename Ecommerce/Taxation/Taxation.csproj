@@ -44,5 +44,11 @@
     <Compile Include="TaxHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Banking\Banking.csproj">
+      <Project>{eba87fa0-6008-4ec3-987c-7ef4beef23ee}</Project>
+      <Name>Banking</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

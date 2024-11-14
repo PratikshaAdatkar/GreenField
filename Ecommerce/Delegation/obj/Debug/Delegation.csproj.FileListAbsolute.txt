@@ -4,3 +4,9 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Delegation\obj\Debug\Delegatio
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Delegation\bin\Debug\Delegation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Delegation\bin\Debug\Delegation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Delegation\obj\Debug\Delegation.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Delegation\obj\Debug\Delegation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Delegation\obj\Debug\Delegation.pdb

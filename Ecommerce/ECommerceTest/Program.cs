@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CRM;
-using POCO;
+using ECommerceEntities;
 using OrderProcessing;
 using Specification;
-using Service;
+using Services;
 namespace ECommerceTest
 {
     internal class Program

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Services;
 using Specification;
-using POCO;
+using ECommerceEntities;
 namespace MembershipTestApp
 {
     internal class Program

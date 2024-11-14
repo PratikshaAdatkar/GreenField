@@ -5,3 +5,10 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\TestDesignPatternApp\obj\Debug
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.exe
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TestDesignPatternApp\bin\Debug\TestDesignPatternApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TestDesignPatternApp\bin\Debug\TestDesignPatternApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TestDesignPatternApp\bin\Debug\TestDesignPatternApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.pdb

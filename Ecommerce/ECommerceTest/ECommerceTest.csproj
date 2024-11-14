@@ -62,13 +62,13 @@
       <Project>{9fa63e53-f5f6-4113-9843-0e98744f89b5}</Project>
       <Name>OrderProcessing</Name>
     </ProjectReference>
-    <ProjectReference Include="..\POCOLib\POCOLib.csproj">
+    <ProjectReference Include="..\POCOLib\ECommerceEntities.csproj">
       <Project>{0108e9f1-486f-400a-ba53-ffe69b51832c}</Project>
-      <Name>POCOLib</Name>
+      <Name>ECommerceEntities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services\Services.csproj">
+    <ProjectReference Include="..\Services\ECommerceServices.csproj">
       <Project>{cb587fe9-f80c-4d9c-88c7-44f495937270}</Project>
-      <Name>Services</Name>
+      <Name>ECommerceServices</Name>
     </ProjectReference>
     <ProjectReference Include="..\Specification\Specification.csproj">
       <Project>{32f70a77-bbe9-4265-bc15-224e4c719286}</Project>

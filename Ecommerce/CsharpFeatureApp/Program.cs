@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CsharpFeatureApp;
 using HR;
+using Banking;
+using Penalty;
+using Delegation;
+using Taxation;
 
 namespace CSharpFeatureApp
 {

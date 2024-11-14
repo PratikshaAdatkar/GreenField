@@ -1,0 +1,6 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\bin\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\bin\Debug\POCOLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\ECommerceEntities.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\ECommerceEntities.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\POCOLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\POCOLib\obj\Debug\POCOLib.pdb

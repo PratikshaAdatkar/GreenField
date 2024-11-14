@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POCO //id, unit price, quantity, title, description, image url
+namespace ECommerceEntities //id, unit price, quantity, title, description, image url
 {
     [Serializable]
     public class Product

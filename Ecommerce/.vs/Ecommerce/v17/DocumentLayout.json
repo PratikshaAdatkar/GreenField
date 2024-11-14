@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|solutionrelative:specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hdfcbankapp\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|solutionrelative:hdfcbankapp\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FD801E-FC21-4024-960B-161A84B54031}|JsonDataRepositoryLib\\JsonDataRepositoryLib.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\jsondatarepositorylib\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22FD801E-FC21-4024-960B-161A84B54031}|JsonDataRepositoryLib\\JsonDataRepositoryLib.csproj|solutionrelative:jsondatarepositorylib\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hdfcbankapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|solutionrelative:hdfcbankapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hdfcbankapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|solutionrelative:hdfcbankapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hdfcbankapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|solutionrelative:hdfcbankapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\POCOLib.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\pocolib\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\POCOLib.csproj|solutionrelative:pocolib\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\POCOLib.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\pocolib\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\POCOLib.csproj|solutionrelative:pocolib\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\Services.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\Services.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\specification\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|solutionrelative:specification\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\Services.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3106E6E7-534F-4300-B49C-1C73EA05F449}|SerializationTestApp\\SerializationTestApp.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\serializationtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3106E6E7-534F-4300-B49C-1C73EA05F449}|SerializationTestApp\\SerializationTestApp.csproj|solutionrelative:serializationtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hdfcbankapp\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38635A69-7DC7-49EE-9B96-3060F0B6EA2E}|HDFCBankApp\\HDFCBankApp.csproj|solutionrelative:hdfcbankapp\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,140 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Specification\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IAuthService.cs",
-              "RelativeToolTip": "Specification\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T01:51:22.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\AuthService.cs",
-              "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AQIAAAEAAAAAaGZmZuYcwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T01:48:03.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\User.cs",
-              "RelativeDocumentMoniker": "POCOLib\\User.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\User.cs",
-              "RelativeToolTip": "POCOLib\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T01:46:02.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Credentials.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\Credentials.cs",
-              "RelativeDocumentMoniker": "POCOLib\\Credentials.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\Credentials.cs",
-              "RelativeToolTip": "POCOLib\\Credentials.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T01:45:30.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "AuthWebAPI\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:54:19.482Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AuthWebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:53:53.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JsonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\JsonDataRepositoryLib\\JsonRepository.cs",
-              "RelativeDocumentMoniker": "JsonDataRepositoryLib\\JsonRepository.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\JsonDataRepositoryLib\\JsonRepository.cs",
-              "RelativeToolTip": "JsonDataRepositoryLib\\JsonRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:33:57.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IProductService.cs",
-              "RelativeDocumentMoniker": "Specification\\IProductService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IProductService.cs",
-              "RelativeToolTip": "Specification\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:47:43.077Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HDFCBankApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HDFCBankApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T12:14:07.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AQIAAAkAAAAAhWZmZmb0vxEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:17:15.209Z"
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "HDFCBankApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "HDFCBankApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T12:05:54.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\SerializationTestApp\\Program.cs",
-              "RelativeDocumentMoniker": "SerializationTestApp\\Program.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\SerializationTestApp\\Program.cs",
-              "RelativeToolTip": "SerializationTestApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:18:07.129Z"
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "HDFCBankApp\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "HDFCBankApp\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T12:02:29.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "AuthWebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAwAAAA",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "HDFCBankApp\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "HDFCBankApp\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:19:17.915Z"
+              "WhenOpened": "2024-11-14T11:59:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HDFCBankApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HDFCBankApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HDFCBankApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABMAAABgzczMzEwrwB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:57:44.766Z",
+              "EditorCaption": ""
             }
           ]
         }
