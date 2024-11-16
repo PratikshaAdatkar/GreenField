@@ -11,8 +11,13 @@ namespace Services
 {
     public class ProductService : IProductService
     {
-        public string filename = "C:/Users/pratiksha.adatkar/Desktop/C#/GreenField/Ecommerce/SerializationTestApp/bin/Debug/products.dat";
-        public bool Seeding(string filename)
+        public string filename = @"D:/products.dat";
+        public ProductService() 
+        { 
+            List<Product> products = new List<Product>();
+            Seeding();
+        }
+        public bool Seeding()
         {
 
             bool status = false;
@@ -26,12 +31,7 @@ namespace Services
             status = repository.Serialize(filename, products);
             return status;
         }
-
-        private List<Product> products;
-        public ProductService()
-        {
-            this.products = new List<Product>();
-        }
+        
         public bool Delete(int id)
         {
             Product theProduct = this.Get(id);

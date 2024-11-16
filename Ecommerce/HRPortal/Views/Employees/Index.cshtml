@@ -1,7 +1,26 @@
-﻿
+﻿﻿@using HRPortal.Models;
 @{
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Employee List</h2>
+@{
+    List<Employee> employees = (List<Employee>)ViewData["list"];
+    <table>
+        <tr>
+            <th>Employee Names</th>
+            <th colspan="3">Details</th>
+        </tr>
+        @foreach (Employee employee in employees)
+        {
+            <tr>
+                <td>@employee.Name</td>
+                <td><a href="/employees/details/@employee.Id">Details</a></td>
+                <td><a href="/employees/delete/@employee.Id">Delete</a></td>
+                <td><a href="/employees/edit/@employee.Id">Update</a></td>
+            </tr>
+        }
 
+    </table>
+    <a href="/employees/insert">Add New Employee</a>
+}

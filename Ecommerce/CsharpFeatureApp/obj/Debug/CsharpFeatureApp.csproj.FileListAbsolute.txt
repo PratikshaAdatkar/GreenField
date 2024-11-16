@@ -9,3 +9,15 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\obj\
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\obj\Debug\CsharpFeatureApp.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\obj\Debug\CsharpFeatureApp.exe
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\obj\Debug\CsharpFeatureApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\CsharpFeatureApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\CsharpFeatureApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\CsharpFeatureApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Banking.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Delegation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Penalty.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Taxation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Banking.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Delegation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Penalty.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\bin\Debug\Taxation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CsharpFeatureApp\obj\Debug\CsharpFe.832573F1.Up2Date

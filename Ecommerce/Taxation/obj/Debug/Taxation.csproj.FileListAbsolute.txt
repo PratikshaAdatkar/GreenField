@@ -4,3 +4,14 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.cs
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Taxation\obj\Debug\Taxation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\bin\Debug\Taxation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\bin\Debug\Taxation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\bin\Debug\Banking.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\bin\Debug\Delegation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\bin\Debug\Banking.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\bin\Debug\Delegation.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\obj\Debug\Taxation.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\obj\Debug\Taxation.csproj.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\obj\Debug\Taxation.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Taxation\obj\Debug\Taxation.pdb

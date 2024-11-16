@@ -16,18 +16,18 @@ namespace ECommerceTest
         {
             Customer customer1 = new Customer();
             customer1.Id = 1;
-            customer1.FirstName = "Ruchi";
-            customer1.LastName = "Amale";
-            customer1.Contact = "420";
-            customer1.Email = "Test";
+            customer1.FirstName = "Pratiksha";
+            customer1.LastName = "Adatkar";
+            customer1.Contact = "7410542126";
+            customer1.Email = "adatkarpratiksha@gmail.com";
             ICustomerService customerService = new CustomerService();
             customerService.Insert(customer1);
             Customer customer2 = new Customer();
             customer2.Id = 2;
-            customer2.FirstName = "Rutuja";
-            customer2.LastName = "Yadav";
-            customer2.Email = "Test";
-            customer2.Contact = "1234";
+            customer2.FirstName = "Shruti";
+            customer2.LastName = "Kadam";
+            customer2.Email = "kadamshruti15@gmail.com";
+            customer2.Contact = "9075652126";
             customerService.Insert(customer2);
 
             List<Customer> allCustomers = customerService.GetAll();

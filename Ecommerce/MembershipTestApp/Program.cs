@@ -40,11 +40,11 @@ namespace MembershipTestApp
                         User u = new User { FirstName = FName, LastName = LName, Email = Mail, ContactNo = Contact };
                         if (svc.Register(u, Password))
                         {
-                            Console.WriteLine("Registration Successful");
+                            Console.WriteLine("Registration UnSuccessful");
                         }
                         else
                         {
-                            Console.WriteLine("Unsuccessful");
+                            Console.WriteLine("successful");
                         }
                         break;
                     case 2:

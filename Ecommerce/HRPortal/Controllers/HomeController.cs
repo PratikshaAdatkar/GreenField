@@ -11,6 +11,7 @@ namespace HRPortal.Controllers
         public ActionResult Index()
         {
             //throw new NotImplementedException();
+
             return View();
         }
 
@@ -27,12 +28,9 @@ namespace HRPortal.Controllers
 
             return View();
         }
-
-
         public ActionResult Error()
         {
             return View();
         }
-       
     }
 }

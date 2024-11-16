@@ -13,14 +13,16 @@ namespace BinaryDataRepositoryLib
 {
     public class BinaryRepository<T> : IDataRepository<T>
     {
-        public bool Serialize(string filename, List<T> items)
+        
+
+        public bool Serialize(string filename, List<T> products)
         {
             bool status = false;
             BinaryFormatter formatter = new BinaryFormatter();
             FileStream stream = new FileStream(filename, FileMode.OpenOrCreate);
-            formatter.Serialize(stream, items);
+            formatter.Serialize(stream, products);
             stream.Close();
-            status = true;
+            
             return status;
         }
         public List<T> Deserialize(string filename)

@@ -59,9 +59,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{838D608A-C5E4-4E73-A377-0DD050E90DE5}"
 	ProjectSection(SolutionItems) = preProject
+		D:\bank_credentials.json = D:\bank_credentials.json
+		D:\bank_users.json = D:\bank_users.json
 		SerializationTestApp\bin\Debug\credentials.json = SerializationTestApp\bin\Debug\credentials.json
 		SerializationTestApp\bin\Debug\logfile.json = SerializationTestApp\bin\Debug\logfile.json
 		SerializationTestApp\bin\Debug\products.json = SerializationTestApp\bin\Debug\products.json
+		D:\products.json = D:\products.json
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingPortal", "BankingPortal\BankingPortal.csproj", "{BD4291C9-388B-4D26-8F7B-CEB5A18DCEFE}"
