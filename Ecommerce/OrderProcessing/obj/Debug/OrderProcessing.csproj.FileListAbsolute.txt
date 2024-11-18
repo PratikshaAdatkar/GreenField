@@ -4,3 +4,9 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\OrderProcessing\obj\Debug\Orde
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\OrderProcessing\bin\Debug\OrderProcessing.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\OrderProcessing\bin\Debug\OrderProcessing.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.pdb

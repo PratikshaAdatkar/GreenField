@@ -24,11 +24,9 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\POCOLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\Services.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\Specification.dll
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\BinaryDataRepositoryLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\POCOLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\Services.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\Specification.pdb
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\BinaryDataRepositoryLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\obj\Debug\Serializ.7BDD11EF.Up2Date
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\JsonDataRepositoryLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\System.Text.Json.dll
@@ -51,5 +49,4 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\System.Buffers.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\obj\Debug\SerializationTestApp.csproj.SuggestedBindingRedirects.cache
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\obj\Debug\SerializationTestApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\SerializationTestApp\bin\Debug\Services.dll.config

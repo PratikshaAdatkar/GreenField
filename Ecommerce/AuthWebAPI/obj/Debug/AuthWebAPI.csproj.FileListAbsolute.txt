@@ -86,11 +86,9 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\obj\Debug\
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\POCOLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Services.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Specification.dll
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\BinaryDataRepositoryLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\POCOLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Services.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Specification.pdb
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\BinaryDataRepositoryLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\JsonDataRepositoryLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System.Text.Json.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System.Memory.dll
@@ -112,3 +110,4 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System.Buffers.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Services.dll.config

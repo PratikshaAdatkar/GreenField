@@ -1,95 +1,222 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ECommerceEntities;
-using Specification;
-using BinaryDataRepositoryLib;
 
-namespace Services
+using System.Collections.Generic;
+
+using System.Linq;
+
+using System.Text;
+
+using System.Threading.Tasks;
+
+using ECommerceEntities;
+
+using Specification;
+
+using JsonDataRepositoryLib;
+
+namespace ECommerceServices
+
 {
+
     public class ProductService : IProductService
-    {
-        public string filename = @"D:/products.dat";
-        public ProductService() 
-        { 
-            List<Product> products = new List<Product>();
-            Seeding();
-        }
+
+    { 
+       
+        public string fileadress = @"D:/productslist.json";
+
         public bool Seeding()
+
         {
+
+            // Sample Data
 
             bool status = false;
+
             List<Product> products = new List<Product>();
-            products.Add(new Product { Id = 1, Name = "gerbera", Description = "Wedding Flower", UnitPrice = 12, Quantity = 5000, image = "/Images/gerbera.jpg" });
-            products.Add(new Product { Id = 2, Name = "rose", Description = "Wedding Flower", UnitPrice = 11, Quantity = 4000, image = "/Images/rose.jfif" });
-            products.Add(new Product { Id = 3, Name = "lily", Description = "Wedding Flower", UnitPrice = 2, Quantity = 5000, image = "" });
-            products.Add(new Product { Id = 4, Name = "jasmine", Description = "Wedding Flower", UnitPrice = 22, Quantity = 5000, image = "" });
-            products.Add(new Product { Id = 5, Name = "lotus", Description = "Wedding Flower", UnitPrice = 19, Quantity = 3000, image = "" });
-            IDataRepository<Product> repository = new BinaryRepository<Product>();
-            status = repository.Serialize(filename, products);
+
+            products.Add(new Product { Id = 1, Name = "Jasmine", Description = "Fragnance", UnitPrice = 32, Quantity = 30, image = "/images/Jasmine.jpg" });
+
+            products.Add(new Product { Id = 2,  Name = "Rose", Description = "Love", UnitPrice = 12, Quantity = 80, image = "/images/Rose.jpg" });
+
+            products.Add(new Product { Id = 4, Name = "Lotus", Description = "Worship", UnitPrice = 40, Quantity = 70, image = "/images/Lotus.jpg" });
+
+            products.Add(new Product { Id = 7, Name = "Lily", Description = "Beautiful", UnitPrice = 20, Quantity = 100, image = "/images/Lily.jpg" });
+
+            ///IDataRepository<Product> repo = new JSONRepository<Product>();
+
+
+            IDataRepository<Product> repo = new JsonRepository<Product>();
+            
+            status = repo.Serialize(fileadress, products);
+
             return status;
-        }
-        
-        public bool Delete(int id)
-        {
-            Product theProduct = this.Get(id);
-            if (theProduct != null)
-            {
-                List<Product> allProducts = GetAll();
-                allProducts.Remove(theProduct);
-                IDataRepository<Product> repo = new BinaryRepository<Product>();
-                repo.Serialize("products.dat", allProducts);
-                return true;
-            }
-            return false;
+
         }
 
-        public Product Get(int id)
+
+        private List<Product> productslist;
+
+        public ProductService()
+
         {
-            Product foundProduct = null;
-            List<Product> products = GetAll();
-            foreach (Product p in products)
-            {
-                if (p.Id == id)
-                {
-                    foundProduct = p;
-                }
-            }
-            return foundProduct;
+
+            productslist = new List<Product>();
+
         }
+
+        public bool Delete(int id)
+
+        {
+
+            Product theProduct = GetById(id);
+
+            if (theProduct != null)
+
+            {
+
+                List<Product> allproducts = GetAll();
+
+                //allproducts.RemoveAll (p=>p.Id==id);
+
+                allproducts = allproducts.FindAll((x) => x.Id != id);
+
+                IDataRepository<Product> repo = new JsonRepository<Product>();
+
+                repo.Serialize(fileadress, allproducts);
+
+                return true;
+
+
+            }
+
+            return false;
+
+            /*Product theproduct =this.Get(id);
+
+            this.productslist.Remove(theproduct);
+
+            return true;
+
+           // throw new NotImplementedException();*/
+
+        }
+
+       /* public Product GetbyId(int id)
+
+        {
+
+            Product foundProduct = null;
+
+            List<Product> products = GetAll();
+
+            foreach (Product p in products)
+
+            {
+                if (p.Id == id) { foundProduct = p; }
+
+            }
+
+            return foundProduct;
+
+            //throw new NotImplementedException();
+
+        }*/
 
         public List<Product> GetAll()
+
         {
-            
+
+            //Deserialization
+
             List<Product> products = new List<Product>();
-            IDataRepository<Product> repository = new BinaryRepository<Product>();
-            products = repository.Deserialize(filename);
+
+            IDataRepository<Product> repository = new JsonRepository<Product>();
+
+            products = repository.Deserialize(fileadress);
+
+            /*  products.Add(new Product { Id = 1, Title = "Jasmine", Description = "Fragnance", Unitprice = 32, Quantity = 30, Image = "/images/Jasmine.jpg" });
+
+              products.Add(new Product { Id = 2, Title = "Rose", Description = "Love", Unitprice = 12, Quantity = 80, Image = "/images/Rose.jpg" });
+
+              products.Add(new Product { Id = 4, Title = "Lotus", Description = "Worship", Unitprice = 40, Quantity = 70, Image = "/images/Lotus.jpg" });
+
+              products.Add(new Product { Id = 1, Title = "Lily", Description = "Beautiful", Unitprice = 20, Quantity = 100, Image = "/images/Lily.jpg" });
+
+             */
+
             return products;
+
+            //throw new NotImplementedException();
+
         }
 
-        public bool Insert(Product Product)
+        public bool Insert(Product product)
+
         {
+
+            //this.productslist.Add(product);
+
+            // return true;
+
+            //throw new NotImplementedException();
+
             List<Product> allProducts = GetAll();
-            allProducts.Add(Product);
-            IDataRepository<Product> repository = new BinaryRepository<Product>();
-            repository.Serialize("products.dat", allProducts);
+
+            allProducts.Add(product);
+
+            IDataRepository<Product> repository = new JsonRepository<Product>();
+
+            repository.Serialize(fileadress, allProducts);
+
             return true;
+
         }
 
         public bool Update(Product productToBeUpdated)
+
         {
-            Product theProduct = this.Get(productToBeUpdated.Id);
+
+            Product theProduct = this.GetById(productToBeUpdated.Id);
+
             if (theProduct != null)
+
             {
+
                 List<Product> allProducts = GetAll();
+
                 allProducts.Remove(theProduct);
-                IDataRepository<Product> repository = new BinaryRepository<Product>();
-                repository.Serialize("products.dat", allProducts);
+
+                allProducts.Add(productToBeUpdated);
+
+                IDataRepository<Product> repository = new JsonRepository<Product>();
+
+                repository.Serialize(fileadress, allProducts);
+
             }
+
             return true;
 
         }
+
+        public Product GetById(int id)
+        {
+            Product foundProduct = null;
+
+            List<Product> products = GetAll();
+
+            foreach (Product p in products)
+
+            {
+                if (p.Id == id) { foundProduct = p; }
+
+            }
+
+            return foundProduct;
+
+            //throw new NotImplementedException();
+
+        }
     }
+
 }
+

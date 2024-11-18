@@ -131,7 +131,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Customer.cs" />
-    <Compile Include="Models\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -186,17 +185,14 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Customer\Index.cshtml" />
-    <Content Include="Views\Products\Details.cshtml" />
-    <Content Include="Views\Products\Insert.cshtml" />
-    <Content Include="Views\Products\Update.cshtml" />
-    <Content Include="Views\Products\Delete.cshtml" />
     <Content Include="Views\Auth\ResetPassword.cshtml" />
     <Content Include="Views\Auth\ForgetPassword.cshtml" />
     <Content Include="Views\Auth\Login.cshtml" />
     <Content Include="Views\Auth\Register.cshtml" />
     <Content Include="Views\ShoppingCart\AddToCart.cshtml" />
-    <Content Include="Views\ShoppingCart\RemoveFromCart.cshtml" />
     <Content Include="Views\Products\Index.cshtml" />
+    <None Include="packages.config" />
+    <Content Include="Views\Products\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -221,7 +217,6 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
-    <None Include="packages.config" />
     <Content Include="Scripts\bootstrap.min.js.map" />
     <Content Include="Scripts\bootstrap.js.map" />
     <Content Include="Scripts\bootstrap.esm.min.js.map" />
@@ -239,6 +234,18 @@
     <ProjectReference Include="..\Catalog\Catalog.csproj">
       <Project>{2eba7b9f-4ba7-4fcc-9721-4d8e0771b77b}</Project>
       <Name>Catalog</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POCOLib\ECommerceEntities.csproj">
+      <Project>{0108e9f1-486f-400a-ba53-ffe69b51832c}</Project>
+      <Name>ECommerceEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\ECommerceServices.csproj">
+      <Project>{cb587fe9-f80c-4d9c-88c7-44f495937270}</Project>
+      <Name>ECommerceServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Specification\Specification.csproj">
+      <Project>{32f70a77-bbe9-4265-bc15-224e4c719286}</Project>
+      <Name>Specification</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

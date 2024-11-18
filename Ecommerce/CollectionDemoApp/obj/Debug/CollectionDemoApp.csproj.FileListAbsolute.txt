@@ -5,3 +5,10 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CollectionDemoApp\obj\Debug\Co
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.exe
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CollectionDemoApp\bin\Debug\CollectionDemoApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CollectionDemoApp\bin\Debug\CollectionDemoApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CollectionDemoApp\bin\Debug\CollectionDemoApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.pdb

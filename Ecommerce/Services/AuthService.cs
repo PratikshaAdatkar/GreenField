@@ -15,9 +15,9 @@ namespace Services
 
     public class AuthService : IAuthService
     {
-        public static string logfile = "C:/Users/pratiksha.adatkar/Desktop/C#/GreenField/Ecommerce/SerializationTestApp/bin/Debug/logfile.json";
+        public static string logfile = "D:/logfile.json";
 
-        public static string credfile = "C:/Users/pratiksha.adatkar/Desktop/C#/GreenField/Ecommerce/SerializationTestApp/bin/Debug/credentials.json";
+        public static string credfile = "D:/credentials.json";
 
         public bool Seeding()
         {

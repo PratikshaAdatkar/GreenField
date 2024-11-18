@@ -32,3 +32,4 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\EC
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\ECommerc.0143A341.Up2Date
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\Services.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\Services.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Services.dll.config

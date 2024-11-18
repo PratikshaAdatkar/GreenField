@@ -4,3 +4,9 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CRM\obj\Debug\CRM.csproj.Assem
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CRM\obj\Debug\CRM.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\CRM\obj\Debug\CRM.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CRM\bin\Debug\CRM.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CRM\bin\Debug\CRM.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CRM\obj\Debug\CRM.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\CRM\obj\Debug\CRM.pdb

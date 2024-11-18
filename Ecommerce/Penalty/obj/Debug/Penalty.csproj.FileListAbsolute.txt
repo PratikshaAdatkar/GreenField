@@ -4,3 +4,9 @@ C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Penalty\obj\Debug\Penalty.cspr
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Penalty\obj\Debug\Penalty.csproj.CoreCompileInputs.cache
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Penalty\obj\Debug\Penalty.dll
 C:\Users\pratiksha.adatkar\source\repos\Ecommerce\Penalty\obj\Debug\Penalty.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Penalty\bin\Debug\Penalty.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Penalty\bin\Debug\Penalty.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Penalty\obj\Debug\Penalty.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Penalty\obj\Debug\Penalty.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Penalty\obj\Debug\Penalty.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Penalty\obj\Debug\Penalty.pdb

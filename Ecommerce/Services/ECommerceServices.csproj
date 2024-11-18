@@ -42,8 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AuthService.cs" />
+    <Compile Include="CartService.cs" />
     <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShoppingCartService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BinaryDataRepositoryLib\BinaryDataRepositoryLib.csproj">
@@ -62,6 +64,9 @@
       <Project>{32f70a77-bbe9-4265-bc15-224e4c719286}</Project>
       <Name>Specification</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

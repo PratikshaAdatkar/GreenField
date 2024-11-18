@@ -3,120 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\ecommerceweb\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\ecommerceweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\ecommerceweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\ecommerceweb\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\ecommerceweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\repositories\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\repositories\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\pocolib\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|solutionrelative:pocolib\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\specification\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|solutionrelative:specification\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3FD876-A729-48C6-A097-DD182A4DA1D6}|BinaryDataRepositoryLib\\BinaryDataRepositoryLib.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\binarydatarepositorylib\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B3FD876-A729-48C6-A097-DD182A4DA1D6}|BinaryDataRepositoryLib\\BinaryDataRepositoryLib.csproj|solutionrelative:binarydatarepositorylib\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\employees\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\employees\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\hrportal\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63CD4EBD-D8D9-4E98-A2ED-4D5740CC8800}|HRPortal\\HRPortal.csproj|solutionrelative:hrportal\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|solutionrelative:specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F70A77-BBE9-4265-BC15-224E4C719286}|Specification\\Specification.csproj|solutionrelative:specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\ecommerceweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EDD9BF-0379-4908-BF12-64A8243C0909}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,383 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "ECommerceWeb\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:45:35.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "ECommerceWeb\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:45:25.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JsonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Repositories\\JsonRepository.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Repositories\\JsonRepository.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Repositories\\JsonRepository.cs",
-              "RelativeToolTip": "HRPortal\\Repositories\\JsonRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAABoAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:11:43.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDataRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Repositories\\IDataRepository.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Repositories\\IDataRepository.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Repositories\\IDataRepository.cs",
-              "RelativeToolTip": "HRPortal\\Repositories\\IDataRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:11:20.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HRPortal\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAADAZmZmZmYswCMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:08:29.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "HRPortal\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:07:43.173Z",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:54:57.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Models\\Employee.cs",
-              "RelativeToolTip": "HRPortal\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Global.asax.cs",
+              "RelativeToolTip": "ECommerceWeb\\Global.asax.cs",
+              "ViewState": "AQIAAAsAAAAAMjMzMzPrvxkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:07:05.093Z",
+              "WhenOpened": "2024-11-18T10:45:40.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "HRPortal\\Services\\EmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA/AAAA",
+              "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AQIAAB4AAABgmJmZmVkhwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:14:41.672Z",
+              "WhenOpened": "2024-11-18T10:34:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\Cart.cs",
+              "RelativeDocumentMoniker": "POCOLib\\Cart.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\Cart.cs",
+              "RelativeToolTip": "POCOLib\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:34:05.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\ICartService.cs",
+              "RelativeDocumentMoniker": "Specification\\ICartService.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\ICartService.cs",
+              "RelativeToolTip": "Specification\\ICartService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:31:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:29:29.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Services\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Services\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Services\\IEmployeeService.cs",
-              "RelativeToolTip": "HRPortal\\Services\\IEmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:15:28.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T10:43:22.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Web.config",
-              "RelativeDocumentMoniker": "HRPortal\\Web.config",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Web.config",
-              "RelativeToolTip": "HRPortal\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-16T18:33:07.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "HRPortal\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "HRPortal\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAQAAAAANjMzM7MSwBYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:34:07.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BinaryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\BinaryDataRepositoryLib\\BinaryRepository.cs",
-              "RelativeDocumentMoniker": "BinaryDataRepositoryLib\\BinaryRepository.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\BinaryDataRepositoryLib\\BinaryRepository.cs",
-              "RelativeToolTip": "BinaryDataRepositoryLib\\BinaryRepository.cs",
-              "ViewState": "AQIAAAcAAACAMzMzM/MmwBsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T10:52:26.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Global.asax.cs",
-              "RelativeDocumentMoniker": "HRPortal\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Global.asax.cs",
-              "RelativeToolTip": "HRPortal\\Global.asax.cs",
-              "ViewState": "AQIAABkAAACAZmZmZmYGwCQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:06:59.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAEAAADOzMzMzIwjwA0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:06:37.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAsAAACAmZmZmZkNwCcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:05:33.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:05:04.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\Error.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Home\\Error.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\Error.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Home\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:04:40.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:04:14.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:04:06.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Insert.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Insert.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Employees\\Insert.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Insert.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Employees\\Insert.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:02:50.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:02:38.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Edit.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Employees\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Edit.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Employees\\Edit.cshtml",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAwEUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:02:11.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Details.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Employees\\Details.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Details.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Employees\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:01:43.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Create.cshtml",
-              "RelativeDocumentMoniker": "HRPortal\\Views\\Employees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\HRPortal\\Views\\Employees\\Create.cshtml",
-              "RelativeToolTip": "HRPortal\\Views\\Employees\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T18:01:06.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IDataRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IDataRepository.cs",
-              "RelativeDocumentMoniker": "Specification\\IDataRepository.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IDataRepository.cs",
-              "RelativeToolTip": "Specification\\IDataRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T11:15:48.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IProductService.cs",
-              "RelativeDocumentMoniker": "Specification\\IProductService.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Specification\\IProductService.cs",
-              "RelativeToolTip": "Specification\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T11:15:39.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Global.asax.cs",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Global.asax.cs",
-              "RelativeToolTip": "AuthWebAPI\\Global.asax.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T11:14:35.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "AuthWebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAArwCwAAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\ECommerceWeb\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAC8AAADAm5mZmRkhwEAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T10:41:58.211Z",
+              "WhenOpened": "2024-11-18T10:25:10.388Z",
               "EditorCaption": ""
             }
           ]

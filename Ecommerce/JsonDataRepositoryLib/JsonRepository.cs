@@ -15,21 +15,22 @@ namespace JsonDataRepositoryLib
         {
             bool status = false;
             FileStream createStream = File.Create(filename);
+           
             JsonSerializer.Serialize(createStream, items);
             createStream.Close();
             return status;
         }
         public List<T> Deserialize(string filename)
         {
-            List<T> items = new List<T>();
+            List<T> products = new List<T>();
             FileStream stream = new FileStream(filename, FileMode.Open);
             if (stream != null)
             {
-                items = JsonSerializer.Deserialize<List<T>>(stream);
+                products = JsonSerializer.Deserialize<List<T>>(stream);
             }
             stream.Close();
             // retrive all products from file
-            return items;
+            return products;
         }
     }
 }

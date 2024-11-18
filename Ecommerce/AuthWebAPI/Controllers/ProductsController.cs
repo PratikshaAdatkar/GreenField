@@ -1,94 +1,103 @@
-﻿using System;
+﻿
+
+using System;
 
 using System.Collections.Generic;
 
 using System.Linq;
 
-using System.Net;
+using System.Web;
 
-using System.Net.Http;
-
-using System.Web.Http;
+using System.Web.Mvc;
 
 using ECommerceEntities;
 
-using Services;
-
 using Specification;
 
-namespace AuthWebAPI.Controllers
+using ECommerceServices;
+
+namespace ECommerceWeb.Controllers
 
 {
 
-    public class ProductsController : ApiController
+    public class ProductsController : Controller
 
     {
 
-        // GET api/values
+        // GET: Products
 
-        public IEnumerable<Product> Get()
+        public ActionResult Index()
 
         {
 
-            IProductService productService = new ProductService();
 
-            List<Product> products = productService.GetAll();
 
-            return products;
+
+            IProductService p = new ProductService();
+
+            ProductService svc = (ProductService)p;
+
+            svc.Seeding();
+
+            List<Product> products = p.GetAll();
+
+            return View(products);
+
+
+            /* List<Product> products = new List<Product>();
+
+             products.Add(new Product { Id = 1, Title = "Jasmine", Description = "Fragnance", Unitprice = 32, Quantity = 30, Image = "/images/Jasmine.jpg" });
+
+             products.Add(new Product { Id = 2, Title = "Rose", Description = "Love", Unitprice = 12, Quantity = 80, Image = "/images/Rose.jpg" });
+
+             products.Add(new Product { Id = 4, Title = "Lotus", Description = "Worship", Unitprice = 40, Quantity = 70, Image = "/images/Lotus.jpg" });
+
+             products.Add(new Product { Id = 1, Title = "Lily", Description = "Beautiful", Unitprice = 20, Quantity = 100, Image = "/images/Lily.jpg" });
+
+             return View(products);
+
+             //return View();*/
 
         }
 
-        // GET api/values/5
-
-        public Product Get(int id)
+        public ActionResult Update()
 
         {
 
-            IProductService productService = new ProductService();
-
-            Product product = productService.Get(id);
-
-            return product;
+            return View();
 
         }
 
-        // POST api/values
-
-        public void Post([FromBody] Product product)
+        public ActionResult Delete()
 
         {
 
-            IProductService productService = new ProductService();
-
-            productService.Insert(product);
+            return View();
 
         }
 
-        // PUT api/values/5
-
-        public void Put([FromBody] Product product)
+        public ActionResult Insert()
 
         {
 
-            IProductService productService = new ProductService();
-
-            productService.Update(product);
+            return View();
 
         }
 
-        // DELETE api/values/5
-
-        public void Delete(int id)
+        public ActionResult Details(int id)
 
         {
 
             IProductService productService = new ProductService();
 
-            productService.Delete(id);
+            Product product = productService.GetById(id);
+
+            return View(product);
+
+            // return View();
 
         }
 
     }
 
 }
-
