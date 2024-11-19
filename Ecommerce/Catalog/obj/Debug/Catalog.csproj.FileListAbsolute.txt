@@ -11,9 +11,9 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\obj\Debug\Cat
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\Catalog.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\Catalog.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\BinaryDataRepositoryLib.dll
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\POCOLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\Specification.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\BinaryDataRepositoryLib.pdb
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\POCOLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\Specification.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\obj\Debug\Catalog.csproj.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\ECommerceEntities.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Catalog\bin\Debug\ECommerceEntities.pdb

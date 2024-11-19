@@ -2,7 +2,6 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Se
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Services.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\BinaryDataRepositoryLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\JsonDataRepositoryLib.dll
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\POCOLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Specification.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\System.Text.Json.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\System.Memory.dll
@@ -16,7 +15,6 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Sy
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\BinaryDataRepositoryLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\JsonDataRepositoryLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\JsonDataRepositoryLib.dll.config
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\POCOLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Specification.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\System.Text.Json.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\System.Memory.xml
@@ -33,3 +31,5 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\EC
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\Services.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\Services.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Services.dll.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\ECommerceEntities.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\ECommerceEntities.pdb

@@ -1,66 +1,54 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using ECommerceEntities;
-
+using Specification;
+using ECommerceServices;
 namespace ECommerceWeb.Controllers
-
 {
-
     public class ShoppingCartController : Controller
-
     {
-
         // GET: ShoppingCart
 
         public ActionResult Index()
-
         {
 
-            Cart mycart = (Cart)this.HttpContext.Session["cart"];
 
-            ViewData["cart"] = mycart;
+            Cart myCart = (Cart)this.HttpContext.Session["cart"];
+            // ICartService svc = new CartService(myCart);
 
+            // ViewData["cart"]=myCart;
             return View();
-
         }
-
-        public ActionResult AddtoCart()
-
+        public ActionResult AddToCart(int id)
         {
+            Item item = new Item();
+            item.ProductId = id;
+            item.Quantity = 0;
 
-            return View();
-
+            return View(item);
         }
 
         [HttpPost]
-
-        public ActionResult AddtoCart(Item theItem)
-
+        public ActionResult AddToCart(Item theItem)
         {
+            Cart myCart = (Cart)this.HttpContext.Session["cart"];
+            myCart.items.Add(theItem);
 
-            Cart mycart = (Cart)this.HttpContext.Session["cart"];
-
-            mycart.items.Add(theItem);
-
-            return RedirectToAction("Index", "Product");
-
+            return RedirectToAction("Index", "Products"); ;
         }
 
-        public ActionResult RemovefromCart(int id)
 
+        public ActionResult RemoveFromCart(int id)
         {
-
-            Cart mycart = (Cart)this.HttpContext.Session["cart"];
-
-            mycart.items.RemoveAll((item) => (item.ProductId == id));
-
-            return View();
-
+            Cart myCart = (Cart)this.HttpContext.Session["cart"];
+            myCart.items.RemoveAll((item) => (item.ProductId == id));
+            return RedirectToAction("Index");
         }
+
 
     }
-
 }

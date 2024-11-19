@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using ECommerceWeb.Models;
+using ECommerceEntities;
 using System.Web.Mvc;
 
 namespace ECommerceWeb.Controllers
