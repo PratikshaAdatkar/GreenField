@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using ECommerceEntities;
 using Specification;
+using ECommerceServices;
 using Services;
 
 namespace AuthWebAPI.Controllers
@@ -22,7 +23,6 @@ namespace AuthWebAPI.Controllers
             else
             {
                 return Unauthorized();
-
             }
 
         }

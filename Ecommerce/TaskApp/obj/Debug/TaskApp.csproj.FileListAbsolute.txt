@@ -1,0 +1,7 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TaskApp\bin\Debug\TaskApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TaskApp\bin\Debug\TaskApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TaskApp\bin\Debug\TaskApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TaskApp\obj\Debug\TaskApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TaskApp\obj\Debug\TaskApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\TaskApp\obj\Debug\TaskApp.pdb

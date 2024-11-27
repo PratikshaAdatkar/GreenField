@@ -8,6 +8,12 @@ using ECommerceEntities;
 namespace Specification
 { public class CartService : ICartService
     {
+        private Cart myCart;
+
+        public CartService(Cart myCart)
+        {
+            this.myCart = myCart;
+        }
 
         public bool AddToCart(Item item)
         { return false;

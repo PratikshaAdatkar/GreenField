@@ -22,7 +22,7 @@ namespace ECommerceServices
 
     { 
        
-        public string fileadress = @"D:/productslist.json";
+        public string fileadress = @"D:/products.json";
 
         public bool Seeding()
 

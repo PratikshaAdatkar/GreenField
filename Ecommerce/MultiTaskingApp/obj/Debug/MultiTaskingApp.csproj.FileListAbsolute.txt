@@ -1,0 +1,7 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultiTaskingApp\bin\Debug\MultiTaskingApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultiTaskingApp\bin\Debug\MultiTaskingApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultiTaskingApp\bin\Debug\MultiTaskingApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultiTaskingApp\obj\Debug\MultiTaskingApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultiTaskingApp\obj\Debug\MultiTaskingApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultiTaskingApp\obj\Debug\MultiTaskingApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultiTaskingApp\obj\Debug\MultiTaskingApp.pdb

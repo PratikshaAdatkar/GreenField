@@ -83,10 +83,8 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\obj\Debug\
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\obj\Debug\AuthWebAPI.csproj.Up2Date
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\obj\Debug\AuthWebAPI.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\obj\Debug\AuthWebAPI.pdb
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\POCOLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Services.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Specification.dll
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\POCOLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Services.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Specification.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\JsonDataRepositoryLib.dll
@@ -111,3 +109,5 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Micros
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System.Buffers.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Services.dll.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\ECommerceEntities.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\ECommerceEntities.pdb

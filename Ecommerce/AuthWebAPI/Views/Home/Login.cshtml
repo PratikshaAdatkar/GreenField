@@ -1,0 +1,74 @@
+﻿﻿﻿@{
+    ViewBag.Title = "Login";
+}
+<h2>Login</h2>
+<table>
+    <tr><td>Email:</td><td> <input type="text" id="txtEmail" /></td></tr>
+    <tr><td>Password:</td> <td> <input type="password" id="txtPassword" /></td></tr>
+    <tr><td>P </td><td> <button onclick="onSignIn()"> Login</button></td></tr>
+</table>
+
+<div id="div1">
+    <p>Result will be shown here</p>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+    var onSignIn = () => {
+        let txtUserEmail = document.getElementById("txtEmail");
+        let userEmail = txtUserEmail.value;
+        let txtUserPassword = document.getElementById("txtPassword");
+        let userPassword = txtUserPassword.value;
+        // Define the URL of the API endpoint
+        const url = '/home/login';
+        
+        /* fetch('/home/signin',)
+             .then(response => response.json())
+             .then(data => console.log(data))
+             .catch(error => console.error('Error:', error));
+         */
+      
+
+        const credential = {
+            email: userEmail,
+            password: userPassword
+        };
+        console.log(credential);
+        
+
+
+        /*fetch(url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(credential),
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(responseData => {
+                console.log('Success:', responseData);
+            })
+            .catch(error => {
+                console.error('There was an error!', error);
+            });*/
+
+        $.ajax({
+            url: url,
+            type: "POST",
+            contentType: "application/json",
+            data: JSON.stringify(credential),
+            success: (result) => {
+                $("#div1").html(result);
+                console.log(result);
+
+            },
+            error: () => {
+                console.log("something is wrong");
+            }
+
+        });
+    };
+</script>

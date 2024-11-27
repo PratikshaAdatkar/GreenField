@@ -1,0 +1,10 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\bin\Debug\GDIWindowsApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\bin\Debug\GDIWindowsApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\bin\Debug\GDIWindowsApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.Form1.resources
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.Properties.Resources.resources
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.csproj.GenerateResource.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.pdb

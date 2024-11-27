@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECommerceEntities //id, unit price, quantity, title, description, image url
 {
-    [Serializable]
+    //[Serializable]
     public class Product
     {
         public int Id { get; set; }
