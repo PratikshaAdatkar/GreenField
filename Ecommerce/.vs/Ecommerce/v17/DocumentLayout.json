@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\authwebapi\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|solutionrelative:pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\authwebapi\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|solutionrelative:pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CatalogAjax.cshtml",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Views\\Home\\CatalogAjax.cshtml",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\CatalogAjax.cshtml",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Views\\Home\\CatalogAjax.cshtml",
+              "RelativeToolTip": "AuthWebAPI\\Views\\Home\\CatalogAjax.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:39:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\Product.cs",
               "RelativeDocumentMoniker": "POCOLib\\Product.cs",
@@ -42,56 +59,60 @@
               "RelativeToolTip": "POCOLib\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T09:41:50.747Z"
+              "WhenOpened": "2024-11-26T09:41:50.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
               "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AQIAAAoAAACINDMzM/MmwBgAAAAwAAAA",
+              "ViewState": "AQIAABsAAABAMzMzM/MuwBgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:52:19.635Z"
+              "WhenOpened": "2024-11-26T07:52:19.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Catalog.cshtml",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Views\\Home\\Catalog.cshtml",
               "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
               "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Views\\Home\\Catalog.cshtml",
               "RelativeToolTip": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
-              "ViewState": "AQIAAK4AAAAA7DIzMzMbwB8BAAAkAAAA",
+              "ViewState": "AQIAAAoAAAAAbGZmZqYowAoBAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-26T07:15:18.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "AuthWebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAC4AAABAzMzMzMwWwCUAAAAaAAAA",
+              "ViewState": "AQIAAC4AAAAQMzMzM7M0wCUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:20:38.792Z"
+              "WhenOpened": "2024-11-26T06:20:38.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AuthWebAPI\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAADcAAADAmpmZmRkRwEAAAAAfAAAA",
+              "ViewState": "AQIAABAAAACAmpmZmVkpwEkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:31:37.289Z"
+              "WhenOpened": "2024-11-22T06:31:37.289Z",
+              "EditorCaption": ""
             }
           ]
         }
