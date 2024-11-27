@@ -1,0 +1,7 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DBTest\bin\Debug\DBTest.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DBTest\bin\Debug\DBTest.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DBTest\obj\Debug\DBTestApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DBTest\obj\Debug\DBTestApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DBTest\obj\Debug\DBTest.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DBTest\obj\Debug\DBTest.pdb

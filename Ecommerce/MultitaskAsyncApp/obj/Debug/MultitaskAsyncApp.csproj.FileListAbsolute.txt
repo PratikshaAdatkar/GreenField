@@ -1,0 +1,7 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultitaskAsyncApp\bin\Debug\MultitaskAsyncApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultitaskAsyncApp\bin\Debug\MultitaskAsyncApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultitaskAsyncApp\bin\Debug\MultitaskAsyncApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultitaskAsyncApp\obj\Debug\MultitaskAsyncApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultitaskAsyncApp\obj\Debug\MultitaskAsyncApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultitaskAsyncApp\obj\Debug\MultitaskAsyncApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\MultitaskAsyncApp\obj\Debug\MultitaskAsyncApp.pdb

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE86B486-288C-4131-9097-C6BD74AD08D4}|DBTest\\DBTest.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\dbtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE86B486-288C-4131-9097-C6BD74AD08D4}|DBTest\\DBTest.csproj|solutionrelative:dbtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|solutionrelative:pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommerce\\authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9FF6FB-FDCC-43B3-B956-858487B4953D}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB587FE9-F80C-4D9C-88C7-44F495937270}|Services\\ECommerceServices.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0108E9F1-486F-400A-BA53-FFE69B51832C}|POCOLib\\ECommerceEntities.csproj|solutionrelative:pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\DBTest\\Program.cs",
+              "RelativeDocumentMoniker": "DBTest\\Program.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\DBTest\\Program.cs",
+              "RelativeToolTip": "DBTest\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAOjMzMzP5vx8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:45:53.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CatalogAjax.cshtml",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Views\\Home\\CatalogAjax.cshtml",
               "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\CatalogAjax.cshtml",
@@ -51,31 +68,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\Product.cs",
               "RelativeDocumentMoniker": "POCOLib\\Product.cs",
               "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\POCOLib\\Product.cs",
               "RelativeToolTip": "POCOLib\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAABAvQwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T09:41:50.747Z"
+              "WhenOpened": "2024-11-26T09:41:50.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\Services\\ProductService.cs",
               "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AQIAABsAAABAMzMzM/MuwBgAAAAwAAAA",
+              "ViewState": "AQIAABwAAABYnJmZmZkMwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:52:19.635Z"
+              "WhenOpened": "2024-11-26T07:52:19.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Catalog.cshtml",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Views\\Home\\Catalog.cshtml",
               "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
@@ -83,11 +102,12 @@
               "RelativeToolTip": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
               "ViewState": "AQIAAAoAAAAAbGZmZqYowAoBAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:15:18.766Z"
+              "WhenOpened": "2024-11-26T07:15:18.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\ProductsController.cs",
@@ -95,11 +115,12 @@
               "RelativeToolTip": "AuthWebAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAC4AAAAQMzMzM7M0wCUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:20:38.792Z"
+              "WhenOpened": "2024-11-26T06:20:38.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\Ecommerce\\AuthWebAPI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\HomeController.cs",
@@ -107,7 +128,8 @@
               "RelativeToolTip": "AuthWebAPI\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABAAAACAmpmZmVkpwEkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:31:37.289Z"
+              "WhenOpened": "2024-11-22T06:31:37.289Z",
+              "EditorCaption": ""
             }
           ]
         }
