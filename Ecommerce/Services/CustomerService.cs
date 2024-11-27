@@ -1,11 +1,12 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ECommerceEntities;
+using Specification;
 
-namespace CRM
+namespace Services
 {
     public class CustomerService : ICustomerService
     {
@@ -49,6 +50,16 @@ namespace CRM
             return true;
             //this._customerList.Remove(theCustomer);
            //this._customerList.Add(customer);
+        }
+
+        Customer ICustomerService.Get(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        List<Customer> ICustomerService.GetAll()
+        {
+            throw new NotImplementedException();
         }
     }
 }

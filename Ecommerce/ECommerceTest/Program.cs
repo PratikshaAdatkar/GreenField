@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CRM;
 using ECommerceEntities;
-using OrderProcessing;
+//using OrderProcessing;
 using Specification;
 using Services;
 using ECommerceServices;
@@ -64,16 +63,16 @@ namespace ECommerceTest
             }
 
             Order Order1 = new Order();
-            Order1.OrderId = 22;
+            Order1.Id = 22;
             Order1.Status = "Delivered";
             Order1.Amount = 1000;
-            Order1.OrderDate = DateTime.Now;
+            Order1.Created = DateTime.Now;
 
             Order Order2 = new Order();
-            Order2.OrderId = 23;
+            Order2.Id = 23;
             Order2.Status = "Reject";
             Order2.Amount = 4522;
-            Order2.OrderDate = DateTime.Now;
+            Order2.Created = DateTime.Now;
 
             IOrderService OrderService = new OrderService();
             OrderService.Insert(Order1);
@@ -83,8 +82,8 @@ namespace ECommerceTest
 
             foreach (Order Order in allOrders)
             {
-                Console.WriteLine(Order.OrderId);
-                Console.WriteLine(Order.OrderDate);
+                Console.WriteLine(Order.Id);
+                Console.WriteLine(Order.Created);
                 Console.WriteLine(Order.Amount);
                 Console.WriteLine(Order.Status);
             }

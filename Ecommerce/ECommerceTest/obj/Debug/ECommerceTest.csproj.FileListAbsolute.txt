@@ -22,7 +22,6 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Deb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\Catalog.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\CRM.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\OrderProcessing.dll
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\POCOLib.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\Services.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\Specification.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\JsonDataRepositoryLib.dll
@@ -38,7 +37,6 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Deb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\Catalog.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\CRM.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\OrderProcessing.pdb
-C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\POCOLib.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\Services.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\Specification.pdb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\JsonDataRepositoryLib.pdb
@@ -54,3 +52,5 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Deb
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\obj\Debug\ECommerc.84355B85.Up2Date
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\Services.dll.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\ECommerceEntities.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceTest\bin\Debug\ECommerceEntities.pdb
