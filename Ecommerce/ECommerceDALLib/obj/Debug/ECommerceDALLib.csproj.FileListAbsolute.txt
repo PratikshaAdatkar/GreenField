@@ -1,0 +1,2 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.csproj.CoreCompileInputs.cache
