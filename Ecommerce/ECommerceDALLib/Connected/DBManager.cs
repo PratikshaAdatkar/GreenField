@@ -7,18 +7,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
 using ECommerceEntities;
+
 namespace ECommerceDALLib
 {
     public static class DBManager
     {
 
-        public static string conString = @"data source=DESKTOP-H1K53PL\SQLEXPRESS; database=Simplyfy; integrated security=SSPI";
+        public static string conString = @"data source=shc-sql-01.database.windows.net ; database=HangFireCatalog_VG; User Id=tmgreadonly; Password=#p7P>Wzs;";
 
         public static bool Insert(Product product)
         {
             bool status = false;
             IDbConnection con = new SqlConnection(conString);
-            string query = "INSERT INTO products (Id, Name, Description, UnitPrice, Quantity, Image)"
+            string query = "INSERT INTO products (Id, Name, Description, UnitPrice, Quantity, image)"
                            + "values(" + product.Id + ", '" + product.Name + "')";
 
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
@@ -43,15 +44,25 @@ namespace ECommerceDALLib
         {
             bool status = false;
             IDbConnection con = new SqlConnection(conString);
-            string query = "INSERT INTO products (Id, Name, Description, UnitPrice, Quantity, Image)"
-                           + "values(" + product.Id + ", '" + product.Name + "')";
-
+            // Use parameterized query to avoid SQL injection
+            string query = "UPDATE products SET Name = @Name, Description = @Description, UnitPrice = @UnitPrice, Quantity = @Quantity, image = @image WHERE Id = @Id";
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
+            // Add parameters to avoid SQL injection
+            cmd.Parameters.Add(new SqlParameter("@Name", product.Name));
+            cmd.Parameters.Add(new SqlParameter("@Description", product.Description));
+            cmd.Parameters.Add(new SqlParameter("@UnitPrice", product.UnitPrice));
+            cmd.Parameters.Add(new SqlParameter("@Quantity", product.Quantity));
+            cmd.Parameters.Add(new SqlParameter("@image", product.image));
+            cmd.Parameters.Add(new SqlParameter("@Id", product.Id));
             try
             {
                 con.Open();
-                cmd.ExecuteNonQuery();
-                status = true;
+                int rowsAffected = cmd.ExecuteNonQuery();
+                // If at least one row was affected, the update was successful
+                if (rowsAffected > 0)
+                {
+                    status = true;
+                }
             }
             catch (SqlException ex)
             {
@@ -63,7 +74,6 @@ namespace ECommerceDALLib
             }
             return status;
         }
-
         public static void Delete(int id)
         {
             IDbConnection con = new SqlConnection(conString);

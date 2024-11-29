@@ -1,4 +1,5 @@
-﻿﻿@{
+﻿﻿﻿
+@{
     ViewBag.Title = "CatalogAjax";
 }
 
@@ -57,16 +58,16 @@
             const quantity = $('#txtQuantity').val();
             const imageUrl = $('#txtImageUrl').val();
 
-            let product = {
-                "Id": id,
-                "Name": name,
+            let product =
+            {
+                "ProductId": id,
+                "Title": name,
                 "Description": description,
                 "UnitPrice": unitPrice,
                 "Quantity": quantity,
-                "image": imageUrl
+                "imageUrl": imageUrl
             }
             //console.log(product);
-
             createProduct(product);
         });
 
@@ -84,14 +85,13 @@
             const quantity = $('#txtUpdateQuantity').val();
             const imageUrl = $('#txtUpdateImageUrl').val();
             let product = {
-                "Id": id,
-                "Name": name,
+                "Title": name,
                 "Description": description,
                 "UnitPrice": unitPrice,
-                "Quantity": quantity,
-                "image": imageUrl
+                "quantity": quantity,
+                "imageUrl": imageUrl
             }
-           updateProduct(id, product);
+            updateProduct(id, product);
         });
 
         // Delete Product
@@ -138,7 +138,7 @@
         const productsList = $('#productsList');
         productsList.empty();
         products.forEach(function (Product) {
-            const li = $('<li>').text(`ID: ${Product.Id}, Name: ${Product.Name}`);
+            const li = $('<li>').text(`ID: ${Product.ProductId}, Name: ${Product.Title}`);
             productsList.append(li);
         });
     }

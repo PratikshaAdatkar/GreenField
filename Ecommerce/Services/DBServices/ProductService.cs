@@ -7,6 +7,7 @@ using ECommerceEntities;
 using Specification;
 using System.Security;
 using System.Net.Http;
+using ECommerceDALLib;
 namespace ECommerceServices.DB
 {
 
@@ -14,7 +15,7 @@ namespace ECommerceServices.DB
     {
         public bool Delete(int id)
         {
-            Product theProduct = Get(id);
+           DBManager.Delete(id);
 
             return false;
         }

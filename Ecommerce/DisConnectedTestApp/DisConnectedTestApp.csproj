@@ -4,16 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32F70A77-BBE9-4265-BC15-224E4C719286}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Specification</RootNamespace>
-    <AssemblyName>Specification</AssemblyName>
+    <ProjectGuid>{F86FC11E-ED4B-4AE7-836C-E3ACAC125D3F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DisConnectedTestApp</RootNamespace>
+    <AssemblyName>DisConnectedTestApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,16 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IAuthService.cs" />
-    <Compile Include="ICustomerService.cs" />
-    <Compile Include="IDataRepository.cs" />
-    <Compile Include="IDBManager.cs" />
-    <Compile Include="IOderService.cs" />
-    <Compile Include="IProductService.cs" />
-    <Compile Include="ICartService.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerceDALLib\ECommerceDALLib.csproj">
+      <Project>{a415e61d-6c60-4dff-b38f-3c164d942ff6}</Project>
+      <Name>ECommerceDALLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\POCOLib\ECommerceEntities.csproj">
       <Project>{0108e9f1-486f-400a-ba53-ffe69b51832c}</Project>
       <Name>ECommerceEntities</Name>

@@ -55,6 +55,10 @@
       <Project>{0b3fd876-a729-48c6-a097-dd182a4da1d6}</Project>
       <Name>BinaryDataRepositoryLib</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ECommerceDALLib\ECommerceDALLib.csproj">
+      <Project>{a415e61d-6c60-4dff-b38f-3c164d942ff6}</Project>
+      <Name>ECommerceDALLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\JsonDataRepositoryLib\JsonDataRepositoryLib.csproj">
       <Project>{22fd801e-fc21-4024-960b-161a84b54031}</Project>
       <Name>JsonDataRepositoryLib</Name>
