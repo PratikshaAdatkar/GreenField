@@ -16,7 +16,7 @@ using Specification;
 
 using ECommerceServices;
 
-namespace AuthWebAPI.Controllers
+namespace AuthWebAPI.Controllers.DBServices
 
 {
 

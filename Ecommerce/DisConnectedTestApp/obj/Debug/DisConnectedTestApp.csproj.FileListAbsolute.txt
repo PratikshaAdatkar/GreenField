@@ -1,0 +1,12 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\bin\Debug\DisConnectedTestApp.exe.config
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\bin\Debug\DisConnectedTestApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\bin\Debug\DisConnectedTestApp.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\bin\Debug\ECommerceDALLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\bin\Debug\ECommerceEntities.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\bin\Debug\ECommerceDALLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\bin\Debug\ECommerceEntities.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\obj\Debug\DisConnectedTestApp.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\obj\Debug\DisConnectedTestApp.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\obj\Debug\DisConne.B8DAB8C3.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\obj\Debug\DisConnectedTestApp.exe
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\DisConnectedTestApp\obj\Debug\DisConnectedTestApp.pdb

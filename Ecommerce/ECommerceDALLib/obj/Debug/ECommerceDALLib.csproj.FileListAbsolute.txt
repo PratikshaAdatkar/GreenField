@@ -1,2 +1,9 @@
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.csproj.AssemblyReference.cache
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\bin\Debug\ECommerceDALLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\bin\Debug\ECommerceDALLib.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\bin\Debug\ECommerceEntities.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\bin\Debug\ECommerceEntities.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\obj\Debug\ECommerc.BE174FDC.Up2Date
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.pdb

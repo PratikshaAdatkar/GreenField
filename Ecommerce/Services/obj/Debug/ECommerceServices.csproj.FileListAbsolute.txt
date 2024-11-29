@@ -33,3 +33,5 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\obj\Debug\Se
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\Services.dll.config
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\ECommerceEntities.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\ECommerceEntities.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\ECommerceDALLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\Services\bin\Debug\ECommerceDALLib.pdb

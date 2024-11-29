@@ -15,5 +15,10 @@ namespace ECommerceEntities //id, unit price, quantity, title, description, imag
         public string Name { get; set; }
         public string Description { get; set; }
         public string image { get; set; }
+
+        public override string ToString()
+        {
+            return Id + " " + Name + " " + Description;
+        }
     }
 }

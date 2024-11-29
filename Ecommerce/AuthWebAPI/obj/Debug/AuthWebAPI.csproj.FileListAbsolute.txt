@@ -111,3 +111,5 @@ C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\System
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\Services.dll.config
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\ECommerceEntities.dll
 C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\ECommerceEntities.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\ECommerceDALLib.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\Ecommerce\AuthWebAPI\bin\ECommerceDALLib.pdb

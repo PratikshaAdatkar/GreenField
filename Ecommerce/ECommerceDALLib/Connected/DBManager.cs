@@ -19,7 +19,7 @@ namespace ECommerceDALLib
         {
             bool status = false;
             IDbConnection con = new SqlConnection(conString);
-            string query = "INSERT INTO products (Id, Name, Description, UnitPrice, Quantity, image)"
+            string query = "INSERT INTO products_pratiksha (Id, Name, Description, UnitPrice, Quantity, image)"
                            + "values(" + product.Id + ", '" + product.Name + "')";
 
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
@@ -45,7 +45,7 @@ namespace ECommerceDALLib
             bool status = false;
             IDbConnection con = new SqlConnection(conString);
             // Use parameterized query to avoid SQL injection
-            string query = "UPDATE products SET Name = @Name, Description = @Description, UnitPrice = @UnitPrice, Quantity = @Quantity, image = @image WHERE Id = @Id";
+            string query = "UPDATE products_pratiksha SET Name = @Name, Description = @Description, UnitPrice = @UnitPrice, Quantity = @Quantity, image = @image WHERE Id = @Id";
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
             // Add parameters to avoid SQL injection
             cmd.Parameters.Add(new SqlParameter("@Name", product.Name));
@@ -77,7 +77,7 @@ namespace ECommerceDALLib
         public static void Delete(int id)
         {
             IDbConnection con = new SqlConnection(conString);
-            string query = "DELETE from products WHERE Id=2";
+            string query = "DELETE from products_pratiksha WHERE Id=2";
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
             try
             {
@@ -98,7 +98,7 @@ namespace ECommerceDALLib
         {
 
             IDbConnection con = new SqlConnection(conString);
-            string query = "SELECT COUNT(*) from products";
+            string query = "SELECT COUNT(*) from products_pratiksha";
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
             try
             {
@@ -123,7 +123,7 @@ namespace ECommerceDALLib
             List<Product> products = new List<Product>();
 
             IDbConnection con = new SqlConnection(conString);
-            string query = "SELECT * from products";
+            string query = "SELECT * from products_pratiksha";
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
             try
             {
@@ -162,7 +162,7 @@ namespace ECommerceDALLib
             List<Product> products = new List<Product>();
 
             IDbConnection con = new SqlConnection(conString);
-            string query = "SELECT * from products WHERE Id=" + id;
+            string query = "SELECT * from products_pratiksha WHERE Id=" + id;
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
             Product product = new Product();
             try
