@@ -1,0 +1,13 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfo.cs
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.sourcelink.json
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\bin\Debug\net8.0\Catalog.deps.json
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\bin\Debug\net8.0\Catalog.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\bin\Debug\net8.0\Catalog.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\refint\Catalog.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Catalog\obj\Debug\net8.0\ref\Catalog.dll

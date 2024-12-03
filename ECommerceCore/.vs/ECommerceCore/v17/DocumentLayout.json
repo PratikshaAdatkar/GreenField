@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\ecommerceweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\ecommerceweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\catalog\\repositories\\connected\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\repositories\\connected\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\ecommerceweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\ecommerceweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\ecommerceweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA76EF-B3A5-4749-91A4-4B8F5690AC2F}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52713B51-97F0-454A-9D69-01B9A92FF5C2}|ORMTestApp\\ORMTestApp.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\ormtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52713B51-97F0-454A-9D69-01B9A92FF5C2}|ORMTestApp\\ORMTestApp.csproj|solutionrelative:ormtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\catalog\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|c:\\users\\pratiksha.adatkar\\desktop\\c#\\greenfield\\ecommercecore\\catalog\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD17B61B-BE6E-4BC7-A0BF-5A1236DB70EC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:11:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\appsettings.json",
+              "RelativeToolTip": "ECommerceWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T09:54:39.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:53:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Program.cs",
+              "RelativeToolTip": "ECommerceWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:56:52.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Repositories\\Connected\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Catalog\\Repositories\\Connected\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Repositories\\Connected\\ProductRepository.cs",
+              "RelativeToolTip": "Catalog\\Repositories\\Connected\\ProductRepository.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwIsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:17:32.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Catalog\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Services\\ProductService.cs",
+              "RelativeToolTip": "Catalog\\Services\\ProductService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAhwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:17:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:19:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:16:22.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Repositories\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Catalog\\Repositories\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Repositories\\IDataRepository.cs",
+              "RelativeToolTip": "Catalog\\Repositories\\IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:18:28.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ORMTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "ORMTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\ORMTestApp\\Program.cs",
+              "RelativeToolTip": "ORMTestApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:39:58.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Entities\\Product.cs",
+              "RelativeToolTip": "Catalog\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:15:17.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
