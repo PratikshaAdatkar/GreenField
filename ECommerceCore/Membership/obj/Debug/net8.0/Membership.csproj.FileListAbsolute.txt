@@ -1,0 +1,13 @@
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\bin\Debug\net8.0\Membership.deps.json
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\bin\Debug\net8.0\Membership.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\bin\Debug\net8.0\Membership.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.csproj.AssemblyReference.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.AssemblyInfoInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.AssemblyInfo.cs
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.sourcelink.json
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\refint\Membership.dll
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\Membership.pdb
+C:\Users\pratiksha.adatkar\Desktop\C#\GreenField\ECommerceCore\Membership\obj\Debug\net8.0\ref\Membership.dll

@@ -9,6 +9,7 @@
       "ECommerceWeb/1.0.0": {
         "dependencies": {
           "Catalog": "1.0.0",
+          "Membership": "1.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
         },
         "runtime": {
@@ -1729,6 +1730,14 @@
         "runtime": {
           "Catalog.dll": {}
         }
+      },
+      "Membership/1.0.0": {
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.2.2"
+        },
+        "runtime": {
+          "Membership.dll": {}
+        }
       }
     }
   },
@@ -2712,6 +2721,11 @@
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
     "Catalog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Membership/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

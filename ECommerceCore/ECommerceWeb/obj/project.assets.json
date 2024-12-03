@@ -2378,6 +2378,19 @@
         "runtime": {
           "bin/placeholder/Catalog.dll": {}
         }
+      },
+      "Membership/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.2.2"
+        },
+        "compile": {
+          "bin/placeholder/Membership.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Membership.dll": {}
+        }
       }
     }
   },
@@ -6730,11 +6743,17 @@
       "type": "project",
       "path": "../Catalog/Catalog.csproj",
       "msbuildProject": "../Catalog/Catalog.csproj"
+    },
+    "Membership/1.0.0": {
+      "type": "project",
+      "path": "../Membership/Membership.csproj",
+      "msbuildProject": "../Membership/Membership.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Catalog >= 1.0.0",
+      "Membership >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7"
     ]
   },
@@ -6767,6 +6786,9 @@
           "projectReferences": {
             "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Catalog.csproj": {
               "projectPath": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Catalog\\Catalog.csproj"
+            },
+            "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Membership\\Membership.csproj": {
+              "projectPath": "C:\\Users\\pratiksha.adatkar\\Desktop\\C#\\GreenField\\ECommerceCore\\Membership\\Membership.csproj"
             }
           }
         }
