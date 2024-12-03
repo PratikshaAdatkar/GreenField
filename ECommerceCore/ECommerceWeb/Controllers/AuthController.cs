@@ -51,5 +51,9 @@ namespace ECommerceWeb.Controllers
             }
 
         }
+        public ActionResult Welcome()
+        {
+            return View();
+        }
     }
 }
